@@ -1,1 +1,4 @@
+this is just a demo for g it
+I am using github rightnow in order to write this on my browser
+
 this is just a demo for git
