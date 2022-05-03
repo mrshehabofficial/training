@@ -1,2 +1,2 @@
 print("helloooo")
-print ("I want to learn Ai")
+print ("I want to learn javaScript")
